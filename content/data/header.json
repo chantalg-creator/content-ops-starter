@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/Logo.png",
-        "altText": "Childfree Trip",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
